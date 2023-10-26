@@ -226,7 +226,7 @@ class ChronoR(TKBCModel):
 
         # @矩阵乘法
         # 第一个元组，手动计算(s,r,?,t),得到score(batch_size,num_entities)
-        # 第二个，N3 regulation，感觉这里N3的计算方法是sqrt()^3
+        # 第二个，Λ4 regulation
         # 第三个元组time shape (num_time, k * t_rank)
         # 因为头尾实体集合相同，都是用的embeddings[0]映射，所以用right矩阵相乘后得到所有的score的预测
         return (score), (
