@@ -31,7 +31,7 @@ This will create the files required to compute the filtered metrics.
 
 ### Reproducing results of ChronoR
 
-In order to reproduce the results of TeAST on the four datasets in the paper,  run the following commands
+run the following commands
 
 ```
 python learner.py --dataset ICEWS14 --rank 800 --k=3 --ratio=0.1 --emb_reg 0.01 --time_reg 0.01
