@@ -10,7 +10,6 @@ ChronoR: Rotation Based Temporal Knowledge Graph Embedding  <img src="https://py
 
 <p align="center">
 (Not the paper's writer)
-  
 Codes for the paper ChronoR: Rotation Based Temporal Knowledge Graph Embedding.
 </p>
 
