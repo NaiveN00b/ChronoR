@@ -1,21 +1,5 @@
-<h2 align="center">
-ChronoR: Rotation Based Temporal Knowledge Graph Embedding  <img src="https://pytorch.org/assets/images/logo-dark.svg" height = "20" align=center />
-</h2>
-
-<p align="center">
-  <a href = '' target='_blank'><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
-</p>
-
-
-<p align="center">
-(Not the paper's writer)
-Codes for the paper ChronoR: Rotation Based Temporal Knowledge Graph Embedding.
-</p>
-
-
 ### Note
-The code use the loss function with reciprocal learning, which is different from the original paper's method.
+Unofficial implementation. The code use the loss function with reciprocal learning, which is different from the original paper's method.
 
 
 ### Datasets
@@ -47,8 +31,4 @@ I got the following results:
 
 ### QA
 If you have any questions or some measures to improve the scores, please contact me.
-
-
-### Acknowledgement
-I refer to the code of [TeAST](https://github.com/IMU-MachineLearningSXD/TeAST). Thanks for their great contributions!
 
